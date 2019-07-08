@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseRace", "HorseRace\HorseRace.csproj", "{1545AE7A-D4DA-40A1-AF97-67F236EE1C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{71CDD3CD-41AF-4A74-A0E1-FD934AAA3BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1545AE7A-D4DA-40A1-AF97-67F236EE1C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1545AE7A-D4DA-40A1-AF97-67F236EE1C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1545AE7A-D4DA-40A1-AF97-67F236EE1C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1545AE7A-D4DA-40A1-AF97-67F236EE1C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71CDD3CD-41AF-4A74-A0E1-FD934AAA3BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71CDD3CD-41AF-4A74-A0E1-FD934AAA3BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71CDD3CD-41AF-4A74-A0E1-FD934AAA3BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71CDD3CD-41AF-4A74-A0E1-FD934AAA3BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
