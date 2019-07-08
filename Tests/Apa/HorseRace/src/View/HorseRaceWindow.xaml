@@ -1,0 +1,13 @@
+﻿<Window x:Class="RunnersGamblingGame.HorseRaceWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RunnersGamblingGame"
+        mc:Ignorable="d"
+        Title="Gamble For Life" Height="450" Width="800">
+    <Grid Margin="0,0,3.6,-1.2" Width="800" Height="400">
+        <Button x:Name="button_Start_Race" Content="Start Race" HorizontalAlignment="Left" Margin="179.2,179.7,0,0" VerticalAlignment="Top" Width="160" Click="Button_Start_Race_Click"/>
+        <Button x:Name="button_Configure_Race" Content="Configure Race" HorizontalAlignment="Left" Margin="428.8,179.7,0,0" VerticalAlignment="Top" Width="160" RenderTransformOrigin="1.872,2.345" Click="Button_Configure_Race_Click"/>
+    </Grid>
+</Window>
