@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs/HorseRace
+/HorceRace.UnitTests/bin/Debug
+/HorceRace.UnitTests/obj/Debug
+/HorseRace.Simulator/bin/Debug
+/HorseRace.Simulator/obj/Debug
