@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectFour", "ConnectFour\ConnectFour.csproj", "{D0BEB0B5-BA41-4C11-A8C8-2AFD5994ECCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0BEB0B5-BA41-4C11-A8C8-2AFD5994ECCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BEB0B5-BA41-4C11-A8C8-2AFD5994ECCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BEB0B5-BA41-4C11-A8C8-2AFD5994ECCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BEB0B5-BA41-4C11-A8C8-2AFD5994ECCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF8452FC-5C9A-406C-A254-2925D8B3142D}
+	EndGlobalSection
+EndGlobal

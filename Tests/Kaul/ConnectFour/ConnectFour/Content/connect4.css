@@ -1,0 +1,61 @@
+﻿body {
+    background-color: #eee;
+}
+
+table {
+    height: 500px;
+    width: 500px !important;
+}
+
+tr td {
+    border: 1px solid #0000b1;
+    border-top: 1px solid blue !important;
+    height: 80px;
+    width: 80px;
+    background-color: #c5c5f9;
+    padding: 8px 19px !important;
+}
+
+.blank {
+    height: 100px;
+    width: 100px;
+    background-color: #e6e2e2;
+    border-radius: 50%;
+}
+
+.red-token {
+    height: 100px;
+    width: 100px;
+    background-color: #f35d5d;
+    border-radius: 50%;
+}
+
+.mini-red-token {
+    height: 40px;
+    width: 40px;
+    background-color: #f35d5d;
+    border-radius: 50%;
+}
+.mini-yellow-token {
+    height: 40px;
+    width: 40px;
+    background-color: #effd19c4;
+    border-radius: 50%;
+}
+
+.yellow-token {
+    height: 100px;
+    width: 100px;
+    background-color: #effd19c4;
+    border-radius: 50%;
+}
+
+.player-turn-text{
+    margin-top:13px;
+}
+
+
+body {
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
